@@ -1,0 +1,16 @@
+{
+    "KPlugin": {
+        "Id": "org.zwierz.ddcsliders",
+        "Name": "Brightness & Contrast (DDC)",
+        "Description": "Brightness and contrast sliders for external monitors via DDC/CI",
+        "Icon": "video-display-brightness",
+        "Authors": [{ "Name": "Zwierz" }],
+        "Category": "System Information",
+        "License": "GPL-2.0+",
+        "Version": "1.4"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-NotificationAreaCategory": "Hardware",
+    "KPackageStructure": "Plasma/Applet"
+}
